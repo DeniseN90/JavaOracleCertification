@@ -21,6 +21,7 @@ public class UnderstandingNull {
         System.out.println("myInt = " + myInt);
         System.out.println("anotherObject = " + anotherObject);
         System.out.println("myLocalObject = " + myLocalObject);
+//        System.out.println("anotherLocalObject= " + anotherLocalObject); won't compile
 
 //        System.out.println("anotherLocalObject = " + anotherLocalObject);
 
