@@ -43,7 +43,7 @@ public class UsingStringBuilder {
         StringBuilder a = new StringBuilder("This ");
         StringBuilder b = a.append("Java ");
         b = b.append("is ").append("so ").append("Cool");
-        System.out.println(a);  
+        System.out.println(a);
         System.out.println(b);
     }
 }
