@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b41080-c13a-4d60-afa8-9244ba1c1195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodChaining">
-    <configuration name="CreatingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.CreatingStrings" />
-      <module name="Prj04UnderstandingStrings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.learn.programming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UsingStringBuilder">
     <configuration name="MethodChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.learn.programming.MethodChaining" />
       <module name="Prj04UnderstandingStrings" />
@@ -103,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.UsingStringBuilder" />
+      <module name="Prj04UnderstandingStrings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learn.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsingStringBuilder" />
         <item itemvalue="Application.MethodChaining" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.StringPoolStringEquality" />
         <item itemvalue="Application.StringImmutability" />
-        <item itemvalue="Application.CreatingStrings" />
       </list>
     </recent_temporary>
   </component>
