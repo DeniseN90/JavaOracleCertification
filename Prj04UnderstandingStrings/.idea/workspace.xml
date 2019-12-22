@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b41080-c13a-4d60-afa8-9244ba1c1195" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learn/programming/StringBuilderMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/StringBuilderMehods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/Equality.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

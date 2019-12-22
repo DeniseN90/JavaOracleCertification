@@ -45,5 +45,7 @@ public class UsingStringBuilder {
         b = b.append("is ").append("so ").append("Cool");
         System.out.println(a);
         System.out.println(b);
+
+//        StringBuilder v = "Fluffy"; won't compile
     }
 }
