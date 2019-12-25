@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40b41080-c13a-4d60-afa8-9244ba1c1195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/UsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj05UnderstandingArrays/Prj05UnderstandingArrays.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +137,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
