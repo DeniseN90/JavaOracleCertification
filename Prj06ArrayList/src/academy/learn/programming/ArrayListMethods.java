@@ -26,7 +26,6 @@ public class ArrayListMethods {
         System.out.println(pets);
 
         // remove
-
         pets.remove("parrot");
         System.out.println(pets  );
         pets.remove(2);
@@ -34,11 +33,39 @@ public class ArrayListMethods {
 
 
         // set
-
         pets.set(0, "sea lion");  // pets[0] = "sea lion" => in case of arrays
         System.out.println(pets);
 
-//        pets.set(6, "dodo");  indexOutOfBoundException
+//      pets.set(6, "dodo");  indexOutOfBoundException
+
+
+        // isEmpty()
+        System.out.println(pets.isEmpty());
+
+        // size
+        System.out.println(pets.size());
+
+        // contains
+        System.out.println(pets.contains("cat"));
+
+
+        // equals  -> same elements in same order
+
+        List<String> newPets = new ArrayList<>();
+        newPets = pets;  // they point at the same object
+        System.out.println("newpets == pets ->" + (newPets == pets));
+        System.out.println(newPets.equals(pets));
+
+
+        pets.add(0, "fish");
+
+        System.out.println(pets.equals(newPets));
+
+
+        //clear
+        pets.clear();
+        System.out.println(pets.size());
+
 
 
 
