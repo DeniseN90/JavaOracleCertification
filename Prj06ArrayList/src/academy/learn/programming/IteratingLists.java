@@ -27,7 +27,7 @@ public class IteratingLists {
         }
 
 
-        for(Iterator<Integer> iterator = numbers.iterator(); iterator.hasNext(); ){ // noincrement specified
+        for(Iterator<Integer> iterator = numbers.iterator(); iterator.hasNext();){ // no increment specified
             Integer number = iterator.next();
             System.out.println(number);
             iterator.remove();
@@ -36,10 +36,14 @@ public class IteratingLists {
         System.out.println("numbers is now =  " + numbers);
 
 
-        numbers.addAll(Arrays.asList(3,7,1,2,9,87,32,12));
+        numbers.addAll(Arrays.asList(3,7,1,2,9,87,32,12));  // copies a collection inside another
 
-       // for(ListIterator<Integer> listIterator = numbers.iterator()){}
-
+       for(ListIterator<Integer> listIterator = numbers.listIterator(3); listIterator.hasPrevious(); ){  // to iterate backwards
+           System.out.println(listIterator.previous());
+           listIterator.remove();
+       }
+        System.out.println(numbers);
 
     }
+
 }

@@ -24,5 +24,6 @@ public class SearchingArrayLIst {
 
         int realIndex = Collections.binarySearch(numsList, "32");
         System.out.println("REAL INDEX = " + realIndex);
+
     }
 }
