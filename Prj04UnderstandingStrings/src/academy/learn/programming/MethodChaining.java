@@ -5,6 +5,8 @@ public class MethodChaining {
 
         String str = "Java    ";
         String strimmed = str.trim().toUpperCase();
+
+        System.out.println(str);
         System.out.println(strimmed);
 
     }

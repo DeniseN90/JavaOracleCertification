@@ -6,6 +6,7 @@ public class CreatingStrings {
         String anotherText = new String("Hello!");
         System.out.println(System.identityHashCode(text));
         System.out.println(System.identityHashCode(anotherText));
+
         //concatenation
         System.out.println(2+3);
         System.out.println("a" + "b");
