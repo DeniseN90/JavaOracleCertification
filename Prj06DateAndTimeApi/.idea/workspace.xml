@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40b41080-c13a-4d60-afa8-9244ba1c1195" name="Default Changelist" comment="">
+    <list default="true" id="819eda6b-cdaa-468d-b55f-497913468076" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Prj06ArrayList/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/CreatingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/CreatingStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learn/programming/MethodChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learn/programming/MethodChaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj04UnderstandingStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj04UnderstandingStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj04UnderstandingStrings/src/academy/learn/programming/CreatingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj04UnderstandingStrings/src/academy/learn/programming/CreatingStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj04UnderstandingStrings/src/academy/learn/programming/MethodChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj04UnderstandingStrings/src/academy/learn/programming/MethodChaining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prj06ArrayList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj06ArrayList/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prj06ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj06ArrayList/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,11 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1UeECDh1Ip2c68U6Iv8J9CMPVrC" />
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WM6IBZwwL8wXPWgD00QrS9xwxS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,10 +50,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodChaining">
-    <configuration name="CreatingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.CreatingStrings" />
-      <module name="Prj04UnderstandingStrings" />
+  <component name="RunManager" selected="Application.ParsingDateAndTime">
+    <configuration name="CreatingDataAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.CreatingDataAndTime" />
+      <module name="Prj06DateAndTimeApi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learn.programming.*" />
@@ -57,9 +64,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Equality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.Equality" />
-      <module name="Prj04UnderstandingStrings" />
+    <configuration name="FormattingDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.FormattingDateAndTime" />
+      <module name="Prj06DateAndTimeApi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learn.programming.*" />
@@ -70,9 +77,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.MethodChaining" />
-      <module name="Prj04UnderstandingStrings" />
+    <configuration name="ParsingDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.ParsingDateAndTime" />
+      <module name="Prj06DateAndTimeApi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learn.programming.*" />
@@ -83,9 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.StringBuilderMethods" />
-      <module name="Prj04UnderstandingStrings" />
+    <configuration name="UsingDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.UsingDateAndTime" />
+      <module name="Prj06DateAndTimeApi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learn.programming.*" />
@@ -96,9 +103,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.UsingStringBuilder" />
-      <module name="Prj04UnderstandingStrings" />
+    <configuration name="UsingPeriod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learn.programming.UsingPeriod" />
+      <module name="Prj06DateAndTimeApi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.learn.programming.*" />
@@ -111,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodChaining" />
-        <item itemvalue="Application.CreatingStrings" />
-        <item itemvalue="Application.Equality" />
-        <item itemvalue="Application.StringBuilderMethods" />
-        <item itemvalue="Application.UsingStringBuilder" />
+        <item itemvalue="Application.ParsingDateAndTime" />
+        <item itemvalue="Application.FormattingDateAndTime" />
+        <item itemvalue="Application.UsingPeriod" />
+        <item itemvalue="Application.UsingDateAndTime" />
+        <item itemvalue="Application.CreatingDataAndTime" />
       </list>
     </recent_temporary>
   </component>
@@ -124,11 +131,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="40b41080-c13a-4d60-afa8-9244ba1c1195" name="Default Changelist" comment="" />
-      <created>1575708530511</created>
+      <changelist id="819eda6b-cdaa-468d-b55f-497913468076" name="Default Changelist" comment="" />
+      <created>1578947034923</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575708530511</updated>
+      <updated>1578947034923</updated>
     </task>
     <servers />
   </component>
