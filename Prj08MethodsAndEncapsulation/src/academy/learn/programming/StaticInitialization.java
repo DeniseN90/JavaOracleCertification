@@ -29,7 +29,7 @@ public class StaticInitialization {
 
     public static void main(String[] args) {
 
-        
+
 
     }
 }
