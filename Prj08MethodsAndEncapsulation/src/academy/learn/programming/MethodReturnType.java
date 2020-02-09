@@ -6,11 +6,11 @@ package academy.learn.programming;
 public class MethodReturnType {
 
     public void walk1() { }
-    public void walk2() { return; }
+    public void walk2() { return; } // REDUNDANT
     public String walk3() { return ""; }
 //    public String walk4() { } // DOES NOT COMPILE
 //    public walk5() { } // DOES NOT COMPILE
-//    String walk6(int a) { if (a == 4) return ""; } // DOES NOT COMPILE
+//    String walk6(int a) { if (a == 4) return ""; } // DOES NOT COMPILE CAUSE THE RETURN STATEMENT IS INSIDE THE 'IF' BLOCK
 
 
     int integer() {
