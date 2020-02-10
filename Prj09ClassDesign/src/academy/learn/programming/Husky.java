@@ -8,5 +8,14 @@ public class Husky extends Dog {
         System.out.println("Husky constructor");
     }
 
+    @Override
+    public int getTailLength() {
+        return 6;
+    }
 
+
+    @Override
+    public int run(int speed) {
+        return speed;
+    }
 }

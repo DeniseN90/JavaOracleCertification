@@ -1,6 +1,6 @@
 package academy.learn.programming;
 
-public class Dog extends Animal {
+public abstract class Dog extends Animal implements HasTail, CanRun {
 
 
     public Dog(int age){
@@ -20,4 +20,6 @@ public class Dog extends Animal {
     public double getAverageHeight() {
         return super.getAverageHeight() +10;
     }
+
+
 }
