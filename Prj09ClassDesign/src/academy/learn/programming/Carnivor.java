@@ -1,5 +1,8 @@
 package academy.learn.programming;
 
 public interface Carnivor {
-    void eatMeat();
+    default void eatMeat() {
+        System.out.println("Eat meat");
+
+    }
 }

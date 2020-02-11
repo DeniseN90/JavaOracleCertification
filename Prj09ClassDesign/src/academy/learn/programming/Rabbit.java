@@ -1,6 +1,6 @@
 package academy.learn.programming;
 
-public class Rabbit extends Animal {
+public class Rabbit extends Animal implements Hop, Herbivor {
 
     public Rabbit(){
         super();
@@ -13,5 +13,11 @@ public class Rabbit extends Animal {
 //        this(age); RECURSIVE
         super();
 //        this();  // DOESN'T COMPILE
+    }
+
+    @Override
+    protected void printDetails() {
+        System.out.println("Rabbit jumps: " + Hop.getAverageJumpHeigth());
+
     }
 }
