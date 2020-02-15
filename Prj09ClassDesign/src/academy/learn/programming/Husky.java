@@ -18,4 +18,10 @@ public class Husky extends Dog {
     public int run(int speed) {
         return speed;
     }
+
+    @Override
+    protected void printDetails() {
+        System.out.println(getAge());
+        System.out.println("Husky");
+    }
 }

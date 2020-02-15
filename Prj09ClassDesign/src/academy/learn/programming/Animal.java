@@ -31,7 +31,7 @@ public class Animal {
     }
 
     protected void printDetails () {
-        System.out.println("Animal");
+        System.out.println("Animal printing details");
         System.out.println("name = " + name +" age = "+ age);
     }
 
