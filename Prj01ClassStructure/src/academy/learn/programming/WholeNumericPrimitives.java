@@ -2,9 +2,9 @@ package academy.learn.programming;
 
 public class WholeNumericPrimitives {
     public static void main(String[] args) {
-        //long max = 367464645646;
+        //long max = 367464645646; doesn't compile
         long max = 8_7878_876_786_876L;
-        //long n = 2300987987979879879;
+        //long n = 2300987987979879879; doesn't compile
         long n = 23009879;
         int i = (int) n;
         //int j = n;
@@ -31,7 +31,7 @@ public class WholeNumericPrimitives {
         int hexSum = firstHex + secondHex;
         System.out.println("Hex sum = " + hexSum);
         System.out.println("*****");
-        System.out.println(Integer.toHexString(hexSum));
+        System.out.println("integer to hexString: " + Integer.toHexString(hexSum));
 
         // binary
         int firstBin = 0b1001;

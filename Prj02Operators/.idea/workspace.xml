@@ -1,8 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8353a79f-01ab-42d8-a2cb-1a02b5554a20" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8353a79f-01ab-42d8-a2cb-1a02b5554a20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/BearOrShark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Cougar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Deer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Egret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/FeedingSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Misc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/TrainingSchedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/Prj01ClassStructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/OutOfPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/ArithmeticOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/AssignmentOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/CompoundAssignmentOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/DecimalNumericPrimitives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/DefaultInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Imports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/NumericPromotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/PrimitiveCharAndBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/PrimitiveWrapperTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/StaticImports.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/UnaryOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/UnderstandingNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/VariableScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/WholeNumericPrimitives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/_myClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/WholeNumericPrimitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/WholeNumericPrimitives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prj09Lambdas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/Prj10Lambdas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prj09Lambdas/src/academmy/learn/programming/LambdaExpressions.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +64,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1U1RYZqCt4FX3ley030GYPMNHoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.CharactersArithmetic">
     <configuration name="CharactersArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -122,5 +170,23 @@
       <updated>1574522162898</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom" timestamp="1583006320051">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583006320051" />
+    <state width="1175" height="149" key="GridCell.Tab.0.center" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
+    <state width="1175" height="149" key="GridCell.Tab.0.left" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
+    <state width="1175" height="149" key="GridCell.Tab.0.right" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
   </component>
 </project>
