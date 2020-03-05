@@ -2,6 +2,8 @@ package academy.learn.programming;
 
 public class PrimitiveWrapperTypes {
 
+    int a = 9;
+
     public static void main(String[] args) {
         int myInt = 10;
         Integer myInteger = new Integer(10); // unnecessary boxing
@@ -33,9 +35,13 @@ public class PrimitiveWrapperTypes {
         printSum(1,8 ); // auto-boxing
 
         printSum(myInteger , anotherInteger);
+
+        PrimitiveWrapperTypes instance = new PrimitiveWrapperTypes();
+        System.out.println(instance.a);
     }
 
     static void printSum(Integer a, Integer b) {
+
 
         System.out.println("Sum = " + ( a + b ));
     }

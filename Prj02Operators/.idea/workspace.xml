@@ -1,8 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8353a79f-01ab-42d8-a2cb-1a02b5554a20" name="Default Changelist" comment="" />
-    <ignored path=".idea/dataSources.local.xml" />
+    <list default="true" id="c936318b-cacb-49cf-9c20-bfbe53c8f12b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/executionHistory/executionHistory.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/executionHistory/executionHistory.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/fileChanges/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/fileHashes/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/fileHashes/fileHashes.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/.idea/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/BearOrShark.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Cougar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Deer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Egret.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/FeedingSchedule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/MathFunctions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/Misc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/src/TrainingSchedule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/5.2.1/gc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.gradle/vcs-1/gc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/Prj01ClassStructure.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj10Lambdas/Prj10Lambdas.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Prj11Exceptions/src/CatchingDifferentExceptions.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/Prj01ClassStructure.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/OutOfPackage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/ArithmeticOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/AssignmentOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/CompoundAssignmentOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/DecimalNumericPrimitives.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/DefaultInitialization.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Imports.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/NumericPromotion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/PrimitiveCharAndBoolean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/PrimitiveWrapperTypes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/StaticImports.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/UnaryOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/UnderstandingNull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/VariableScope.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/Variables.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/WholeNumericPrimitives.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/build/academy/learn/programming/_myClass.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/.name" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Prj10Lambdas/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/.idea/uiDesigner.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/Prj10Lambdas.iml" afterPath="$PROJECT_DIR$/../Prj00AssessmentTest/Prj00AssessmentTest.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../Prj09Lambdas/src/academmy/learn/programming/LambdaExpressions.java" afterPath="$PROJECT_DIR$/../Prj10Lambdas/src/academmy/learn/programming/LambdaExpressions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew.bat" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/PrimitiveWrapperTypes.java" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/PrimitiveWrapperTypes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/WholeNumericPrimitives.java" afterPath="$PROJECT_DIR$/../Prj01ClassStructure/src/academy/learn/programming/WholeNumericPrimitives.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Prj09Lambdas/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Prj09Lambdas/.idea/workspace.xml" />
+    </list>
+    <ignored path="Prj02Operators.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +92,36 @@
     <favorites_list name="Prj02Operators" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="UnaryOperators.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/academy/learn/programming/UnaryOperators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.050458714">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="38" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.23543401">
+                  <caret line="5" column="40" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,9 +130,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -50,7 +151,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-2101" />
+    <option name="y" value="210" />
     <option name="width" value="1936" />
     <option name="height" value="1038" />
   </component>
@@ -80,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,32 +218,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prj02Operators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prj02Operators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager">
     <configuration default="false" name="CharactersArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -260,12 +369,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
-      <method />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.CharactersArithmetic" />
       <item index="1" class="java.lang.String" itemvalue="Application.Comparing" />
@@ -284,70 +387,74 @@
       <created>1574522162898</created>
       <option name="number" value="Default" />
       <updated>1574522162898</updated>
-      <workItem from="1583221469353" duration="1217000" />
-      <workItem from="1583231390452" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1300000" />
+    <option name="totallyTimeSpent" value="55000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1936" height="1038" extended-state="0" />
-    <editor active="false" />
+    <frame x="-2101" y="210" width="1936" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom" timestamp="1583006320051">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583006320051" />
+    <state width="1175" height="149" key="GridCell.Tab.0.center" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
+    <state width="1175" height="149" key="GridCell.Tab.0.left" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
+    <state width="1175" height="149" key="GridCell.Tab.0.right" timestamp="1583006320050">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583006320050" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/academy/learn/programming/UnaryOperators.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academy/learn/programming/UnaryOperators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.050458714">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.23543401">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
