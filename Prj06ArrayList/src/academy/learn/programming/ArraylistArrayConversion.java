@@ -22,6 +22,9 @@ public class ArraylistArrayConversion {
 
         String [] stringNames = names.toArray(new String[0]);  // (new String[names.size()]);
 
+        String [] anotherArray = names.toArray(new String[names.size()]);
+
+
 
         // ARRAY => ARRAYLIST  they are linked
 
