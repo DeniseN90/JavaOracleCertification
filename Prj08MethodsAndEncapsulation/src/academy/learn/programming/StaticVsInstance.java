@@ -13,5 +13,8 @@ public class StaticVsInstance {
         first();
         second();
 //        third(); // DOES NOT COMPILE
+
+        StaticVsInstance st = new StaticVsInstance();
+        st.third();  // but you can call the method instantiating an object;
     }
 }

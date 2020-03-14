@@ -18,6 +18,13 @@ public class UsingPeriod {
 
         Long l = start.toEpochDay();
         System.out.println(l); // number of days since January 1 1970
+
+        Period annually = Period.ofYears(1); // every 1 year
+        Period quarterly = Period.ofMonths(3); // every 3 months
+        Period everyThreeWeeks = Period.ofWeeks(3); // every 3 weeks
+        Period everyOtherDay = Period.ofDays(2); // every 2 days
+        Period everyYearAndAWeek = Period.of(1, 0, 7); // every year and 7 days
+
     }
 
     public static void cleanAnimalCage(LocalDate start, LocalDate end) {
