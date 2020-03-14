@@ -7,6 +7,12 @@ public class StaticInitialization {
 
     private static final int NUM_SECONDS_PER_HOUR;
 
+ /*   public StaticInitialization(){
+        NUM_SECONDS_PER_HOUR = 60;
+    }*/
+
+
+
     static {
         int numSecondsPerMinute = 60;
         int numMinutesPerHour = 60;

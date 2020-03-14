@@ -7,6 +7,10 @@ class Lion{
     private String sex;
     private double weigth;
 
+    public Lion(){
+        this("Leo");
+    }
+
     public Lion(String name){
         this(name, "female");
         weigth = 230.0;
